@@ -1,37 +1,29 @@
 # Metasploit para Principiantes
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![Metasploit para Principiantes](https://cover-creator.labex.io/metasploit-for-beginners.png?lang=es)](https://labex.io/es/courses/metasploit-for-beginners)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/metasploit-for-beginners)
+<p align="center">
+  <a href="https://labex.io/es/courses/metasploit-for-beginners">
+    <img src="https://course-cover.labex.io/metasploit-for-beginners.png?lang=es" alt="Metasploit para Principiantes">
+  </a>
+</p>
 
 En este curso, aprenda los fundamentos del uso de Metasploit, un potente framework de pruebas de penetración. Explore la instalación, la navegación por la consola, el uso de módulos, las técnicas de escaneo, la ejecución de exploits y la post-explotación.
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-whitesmoke?style=for-the-badge&logo=cybersecurity)
-![Metasploit](https://img.shields.io/badge/Metasploit-whitesmoke?style=for-the-badge&logo=metasploit)
-
+[Iniciar curso en LabEx](https://labex.io/es/courses/metasploit-for-beginners)
 
 ## Ejercicios
 
-|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                                          |
-|----------|-------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🧩 🆓 Instalación y Configuración Inicial de Metasploit     | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-installation-and-initial-setup-632603?course=metasploit-for-beginners'>Iniciar Laboratorio</a> |
-|        2 | 🧩 🆓 Conceptos Básicos de Navegación en la Consola Meta... | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-console-navigation-basics-632602?course=metasploit-for-beginners'>Iniciar Laboratorio</a>      |
-|        3 | 🧩 🆓 Búsqueda y Selección de Módulos de Metasploit         | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-module-search-and-selection-632604?course=metasploit-for-beginners'>Iniciar Laboratorio</a>    |
-|        4 | 🧩 🆓 Módulos Auxiliares de Escaneo de Metasploit           | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-auxiliary-scanning-modules-632600?course=metasploit-for-beginners'>Iniciar Laboratorio</a>     |
-|        5 | 🧩 🆓 Ejecución de Exploit Simple con Metasploit            | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-simple-exploit-execution-632605?course=metasploit-for-beginners'>Iniciar Laboratorio</a>       |
-|        6 | 🧩 🆓 Post-Explotación Básica con Metasploit                | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-metasploit-basic-post-exploitation-632601?course=metasploit-for-beginners'>Iniciar Laboratorio</a>        |
+|   Índice | Nombre                                                | Dificultad   | Práctica                                                                                                                                            |
+|----------|-------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | Instalación y Configuración Inicial de Metasploit     | Principiante | <a target='_blank' href='https://labex.io/es/labs/metasploit-installation-and-initial-setup-632603?course=metasploit-for-beginners'>Iniciar lab</a> |
+|        2 | Conceptos Básicos de Navegación en la Consola Meta... | Principiante | <a target='_blank' href='https://labex.io/es/labs/metasploit-console-navigation-basics-632602?course=metasploit-for-beginners'>Iniciar lab</a>      |
+|        3 | Búsqueda y Selección de Módulos de Metasploit         | Principiante | <a target='_blank' href='https://labex.io/es/labs/metasploit-module-search-and-selection-632604?course=metasploit-for-beginners'>Iniciar lab</a>    |
+|        4 | Módulos Auxiliares de Escaneo de Metasploit           | Principiante | <a target='_blank' href='https://labex.io/es/labs/metasploit-auxiliary-scanning-modules-632600?course=metasploit-for-beginners'>Iniciar lab</a>     |
+|        5 | Ejecución de un exploit simple con Metasploit         | Principiante | <a target='_blank' href='https://labex.io/es/labs/metasploit-simple-exploit-execution-632605?course=metasploit-for-beginners'>Iniciar lab</a>       |
+|        6 | Conceptos básicos de post-explotación con Metasplo... | Principiante | <a target='_blank' href='https://labex.io/es/labs/metasploit-basic-post-exploitation-632601?course=metasploit-for-beginners'>Iniciar lab</a>        |
 
-## Acerca de LabEx
+## About LabEx
 
-[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
-
-## Más
-
-- 🔗 [Cybersecurity Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Tutoriales Gratuitos](https://github.com/labex-labs/cybersecurity-free-tutorials)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
